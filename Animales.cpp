@@ -1,5 +1,5 @@
 //4 programa
-//Marlon Emiliano Olvera Gallegos
+//Marlen montserrat palomo parra
 //14-05-25
 //Crear clases y objetos de animales
 #include <stdio.h>
@@ -54,3 +54,4 @@ int main() {
 
     return 0;
 }
+
